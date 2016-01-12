@@ -1,0 +1,12 @@
+-classpath 'C:\\Users\\CltControl.WRKS129-159FIEC\\SimpleGameGradle.git\\simpleGameGradle\\build\\classes\\main;C:\\Users\\CltControl.WRKS129-159FIEC\\SimpleGameGradle.git\\simpleGameGradle\\build\\resources\\main;C:\\Users\\CltControl.WRKS129-159FIEC\\.gradle\\caches\\modules-2\\files-2.1\\org.slf4j\\slf4j-api\\1.7.13\\7fcf30c25b8f4a9379b9dad0d3f487b25272c026\\slf4j-api-1.7.13.jar'
+-d 'C:\\Users\\CltControl.WRKS129-159FIEC\\SimpleGameGradle.git\\simpleGameGradle\\build\\docs\\javadoc'
+-doctitle 'simpleGameGradle API'
+-quiet 
+-windowtitle 'simpleGameGradle API'
+'C:\\Users\\CltControl.WRKS129-159FIEC\\SimpleGameGradle.git\\simpleGameGradle\\src\\main\\java\\Library.java'
+'C:\\Users\\CltControl.WRKS129-159FIEC\\SimpleGameGradle.git\\simpleGameGradle\\src\\main\\java\\simpleGameGradle\\cli\\CLIMain.java'
+'C:\\Users\\CltControl.WRKS129-159FIEC\\SimpleGameGradle.git\\simpleGameGradle\\src\\main\\java\\simpleGameGradle\\core\\Board.java'
+'C:\\Users\\CltControl.WRKS129-159FIEC\\SimpleGameGradle.git\\simpleGameGradle\\src\\main\\java\\simpleGameGradle\\core\\Direction.java'
+'C:\\Users\\CltControl.WRKS129-159FIEC\\SimpleGameGradle.git\\simpleGameGradle\\src\\main\\java\\simpleGameGradle\\core\\Game.java'
+'C:\\Users\\CltControl.WRKS129-159FIEC\\SimpleGameGradle.git\\simpleGameGradle\\src\\main\\java\\simpleGameGradle\\core\\Pawn.java'
+'C:\\Users\\CltControl.WRKS129-159FIEC\\SimpleGameGradle.git\\simpleGameGradle\\src\\main\\java\\simpleGameGradle\\exception\\OutOfBoardException.java'
